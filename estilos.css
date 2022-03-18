@@ -1,0 +1,23 @@
+#destacado {
+    background-color: transparent;
+}
+
+/*a:hover, a:active{
+    background-color: rgb(189, 143, 77);
+    padding: 5px 2px;
+}*/
+
+#circulo {
+    width: 4cm;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#footer {
+    color: white;
+    padding: 2px;
+}
+
+
+  
